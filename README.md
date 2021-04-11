@@ -13,5 +13,5 @@ https://stretch3.github.io/ で動くことを確認しています。
 ### PinballRunnerWithYourNose.sb3
 
 https://scratch.mit.edu/projects/417067531/
-のバスケットを鼻で動かすバージョンです。
+のバスケットを鼻で動かすバージョンです。  
 鼻先の位置を認識してバスケットを左右に動かしています。
